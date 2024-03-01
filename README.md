@@ -4,7 +4,7 @@
 This application gives the weather forecast for any city that the user searchesns the current weather and the folloeing 5 days.
 
 ##Usage
-link to application: https://github.com/SamBishop06/Challenge-6
+link to application: https: https://github.com/SamBishop06/Weather-App
 
 this application uses the OpenWeatherMaps API to get current and 5-day future forecast for the city 
 the user searches. Once you search the city name, and the click serach button you will see the current
