@@ -19,6 +19,8 @@ windspeed, and humidity for the following 5 days as well. Each city that you sea
 
 ![Alt text](<Screenshot 2024-02-12 at 4.01.30 PM.png>)
 
+##[Deployed Application (click here)](http://127.0.0.1:5500/index.html)
+
 ##Credits
 API: https://openweathermap.org/api
 
