@@ -13,11 +13,11 @@ windspeed, and humidity for the following 5 days as well. Each city that you sea
 
 ###Screenshots 
 
-![](<Screenshot 2024-02-12 at 3.33.24 PM (2).png>)
+![Alt text](<Screenshot 2024-02-12 at 3.33.24 PM (2).png>)
 
-![](<Screenshot 2024-02-12 at 3.36.16 PM.png>)
+![Alt text](<Screenshot 2024-02-12 at 3.36.16 PM.png>)
 
-![](<Screenshot 2024-02-12 at 4.01.30 PM.png>)
+![Alt text](<Screenshot 2024-02-12 at 4.01.30 PM.png>)
 
 ##[Deployed Application (click here)](http://127.0.0.1:5500/index.html)
 
