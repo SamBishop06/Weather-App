@@ -19,7 +19,7 @@ windspeed, and humidity for the following 5 days as well. Each city that you sea
 
 <img width="1440" alt="Screenshot 2024-02-12 at 3 36 23 PM" src="https://github.com/SamBishop06/Weather-App/assets/151981267/aefc9e4c-c6d2-4ab5-b5fb-a7377e462bf8">
 
-## [Deployed Application (click here)]() 
+## [Deployed Application (click here)]( https://sambishop06.github.io/Weather-App/) 
 
 ##Credits
 API: https://openweathermap.org/api
